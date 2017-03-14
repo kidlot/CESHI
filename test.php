@@ -8,5 +8,5 @@
 
   function test(){
       echo "hello world !";
-
+      var $a = 999;
   }
